@@ -32,7 +32,7 @@ def primeFactors(num):
 
 
 def numOfFact():
-    """ Funtion to find first number to have 500 factors
+    """ Funtion to find first number to have more then 500 factors
     """
     i = 1
     sum = 1
