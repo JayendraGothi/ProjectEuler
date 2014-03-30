@@ -1,1 +1,1 @@
-This repository Contains all the small programs i(Jayendra) created
+This repository solved problems of ProjectEuler.
